@@ -1,0 +1,71 @@
+
+.card {
+  width: 100%;
+  margin-left: 1%;
+
+}
+
+
+.header {
+position: fixed;
+z-index: 100;
+width: 100%;
+
+}
+
+/*главная */
+.containerr{
+  color: #007cff;
+  margin-top: 60px;
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+
+}
+.intro{
+  width: 100%;
+  height: 100vh;
+  color: #007cff;
+  text-align: center;
+  justify-content: space-between;
+  background: url(img/fon.jpg)center ;
+  background-size: cover;
+}
+
+.btm{
+  margin-top: 30px;
+  border: 2px solid #007cff;
+  padding: 20px 25px;
+  text-transform: uppercase;
+  border-radius: 10px ;
+  background-color: white;
+}
+
+.intro1{
+  margin-top: 43px;
+  width: 100%;
+  
+  
+}
+.intro2{
+  width: 250%;
+  padding: 40px;
+  border: 2px solid #007cff;
+  border-radius: 10px ;
+  background-color: white;
+}
+
+.btmm{
+  margin-top: 30px;
+  border: 2px solid #007cff;
+  border-radius: 10px;
+  padding: 41px 50px;
+  text-transform: uppercase;
+  background-color: white;
+}
+
+.bd-footer{
+margin-bottom: 0px;
+ 
+
+}
